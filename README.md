@@ -2,7 +2,8 @@
 # Final project
 
 **Explain the general theme and specific features of your project.**
-
+This is a 1 player shooting game that kills monsters that are spawned from the top of the screen.
+Every second, the monsters will 
 
 
 **Cite any resources or existing code you used.**
