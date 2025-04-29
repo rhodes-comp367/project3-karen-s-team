@@ -5,6 +5,7 @@ This project is a single-player arcade-style shooting game where the player must
 
 Additional gameplay features include boundary restrictions, preventing the player from moving outside the screen area. Bullets fired by the player will either disappear after colliding with a monster or after reaching the top of the screen without making contact. This project demonstrates basic game mechanics such as player movement, shooting, collision detection, health management, point tracking, and screen boundary enforcement, all combined into a simple yet engaging experience.
 
+The idea for this project was inspired by the Snake game project. Many of the functions and design patterns used here were adapted from the concepts and structure of the Snake game, with modifications to support shooting mechanics instead of snake movements.
 
 **Cite any resources or existing code you used.**
 
