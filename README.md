@@ -17,4 +17,4 @@ One of the biggest challenges I faced during this project was implementing colli
 
 Another major difficulty was keeping track of the player’s score and using it to correctly trigger the end of the game. Ensuring that the scoring system consistently updated based on monster health, and that the game recognized when the player exceeded 5 points, required careful attention to timing and condition checks.
 
-
+It can be confusing because the game is sometimes able to detect when a bullet hits a monster, but fails to do so consistently. I suspect the issue lies in how the list of bullets is being handled. It could be related to the way bullets are removed after a collision, or the order in which I update the game state—specifically, moving bullets and monsters before or after checking for collisions. 
